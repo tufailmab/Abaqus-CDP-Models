@@ -1,0 +1,25 @@
+*Material, name=cdp25mpa
+*Density
+2.4e-09
+*Elastic
+29180, 0.2
+*Concrete Damaged Plasticity
+38.5, 0.1, 1.16, 0.6667, 0
+*Concrete Compression Hardening
+10.000000, 0.000000
+21.742965, 0.000366
+25.000000, 0.001022
+25.000000, 0.002605
+*Concrete Tension Stiffening
+2.000000, 0.000000
+1.315866, 0.008606
+0.020000, 0.094669
+*Concrete Compression Damage
+0.000000, 0.000000
+0.108323, 0.000366
+0.284384, 0.001022
+0.500000, 0.002605
+*Concrete Tension Damage
+0.000000, 0.000000
+0.710000, 0.008606
+0.900000, 0.094669
