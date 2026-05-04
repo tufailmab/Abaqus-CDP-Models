@@ -1,0 +1,25 @@
+*Material, name=cdp69p3MPa
+*Density
+2.4e-09
+*Elastic
+40990, 0.2
+*Concrete Damaged Plasticity
+38.5, 0.1, 1.16, 0.6667, 0
+*Concrete Compression Hardening
+27.720000, 0.000000
+57.233663, 0.000247
+69.300000, 0.000908
+69.300000, 0.001276
+*Concrete Tension Stiffening, type=DISPLACEMENT
+4.600000, 0.000000
+3.026493, 0.004519
+0.046000, 0.049709
+*Concrete Compression Damage
+0.000000, 0.000000
+0.034938, 0.000247
+0.181924, 0.000908
+0.220000, 0.001276
+*Concrete Tension Damage, type=DISPLACEMENT
+0.000000, 0.000000
+0.520000, 0.004519
+0.700000, 0.049709
