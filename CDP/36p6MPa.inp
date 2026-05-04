@@ -1,0 +1,25 @@
+*Material, name=cdp36p6
+*Density
+2.4e-09
+*Elastic
+33730, 0.2
+*Concrete Damaged Plasticity
+38.5, 0.1, 1.16, 0.6667, 0
+*Concrete Compression Hardening
+15.440000, 0.000000
+32.877821, 0.000330
+38.600000, 0.001007
+38.600000, 0.002322
+*Concrete Tension Stiffening
+2.900000, 0.000000
+1.908006, 0.006438
+0.029000, 0.070814
+*Concrete Compression Damage
+0.000000, 0.000000
+0.172690, 0.000330
+0.423353, 0.001007
+0.590000, 0.002322
+*Concrete Tension Damage
+0.000000, 0.000000
+0.690000, 0.006438
+0.900000, 0.070814
