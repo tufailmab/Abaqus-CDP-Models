@@ -1,0 +1,27 @@
+*Material, name=cdp31mpa
+*Density
+2.4e-09
+*Elastic
+31350, 0.2
+*Concrete Damaged Plasticity
+38.5, 0.1, 1.16, 0.6667, 0
+*Concrete Compression Hardening
+12.400000, 0.000000
+26.812970, 0.000357
+31.000000, 0.001026
+31.000000, 0.002475
+*Concrete Tension Stiffening, type=DISPLACEMENT
+2.400000, 0.000000
+1.992522, 0.007707
+0.903585, 0.040460
+0.024000, 0.190739
+*Concrete Compression Damage
+0.000000, 0.000000
+0.101872, 0.000357
+0.285363, 0.001026
+0.500000, 0.002475
+*Concrete Tension Damage, type=DISPLACEMENT
+0.000000, 0.000000
+0.670000, 0.007707
+0.870000, 0.040460
+0.900000, 0.190739
